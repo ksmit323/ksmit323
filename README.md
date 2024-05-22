@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi 👋, I'm Kenneth
+# Hi 👋, I'm Kenneth
 
 #### **A Software Developer and blockchain enthusiast**
 
