@@ -14,13 +14,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, my name is Kenneth.
+## Hi 👋, I'm Kenneth
+
+#### **A Software Developer and blockchain enthusiast**
+
 
 ## About Me
 I am passionate about building and advancing technologies such as Crypto, DeFi and AI.
 
 ## Tech Stack
-![My Languages](https://skillicons.dev/icons?i=python,solidity,typescript,c,javascript,bash,opencv,selenium&theme=dark)
+![My Languages](https://skillicons.dev/icons?i=python,solidity,rust,typescript,c,javascript,bash,opencv,selenium&theme=dark)
+
+## Hackathon Awards
+* 🥇 1st Place - Scaling Web3 Hackacthon, Orderly Network Bounty
+
+* 🥇 1st Place - Viction Horizon Startup Hackathon Gaming track
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats-eight-eta-76.vercel.app/api?username=ksmit323&hide=issues,prs&hide_rank=true)
