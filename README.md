@@ -30,7 +30,7 @@ I am passionate about building and advancing technologies such as Crypto, DeFi a
 
 * 🥇 1st Place - Viction Horizon Startup Hackathon Gaming track
 
-* 🥇 Finalist - Vietname Rust Hackathon
+* 🥇 Finalist - Vietnam Rust Hackathon
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats-eight-eta-76.vercel.app/api?username=ksmit323&hide=issues,prs&hide_rank=true)
