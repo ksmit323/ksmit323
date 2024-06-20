@@ -28,9 +28,9 @@ I am passionate about building and advancing technologies such as Crypto, DeFi a
 ## Hackathon Awards
 * 🥇 1st Place - Scaling Web3 Hackacthon, Orderly Network Bounty
 
-* 🥇 1st Place - Viction Horizon Startup Hackathon Gaming track
+* 🥇 1st Place - Viction Blockchain Hackathon Gaming track
 
-* 🥇 Finalist - Vietnam Rust Hackathon
+* 🥇 Finalist - Vietnam Rust Web3 Hackathon
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats-eight-eta-76.vercel.app/api?username=ksmit323&hide=issues,prs&hide_rank=true)
