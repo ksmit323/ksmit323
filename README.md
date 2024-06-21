@@ -32,7 +32,7 @@ I am passionate about building and advancing technologies such as Crypto, DeFi a
 
 * 🥇 Finalist - Vietnam Rust Web3 Hackathon
 
-[![Top Langs](https://github-readme-stats-eight-eta-76.vercel.app/api/top-langs/?username=ksmit323)](https://github.com/anuraghazra/github-readme-stats)
 <!--
+[![Top Langs](https://github-readme-stats-eight-eta-76.vercel.app/api/top-langs/?username=ksmit323)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats-eight-eta-76.vercel.app/api?username=ksmit323&hide=issues,prs&hide_rank=true)
 
