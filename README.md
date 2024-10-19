@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Kenneth
 
-#### **A Software Developer and blockchain enthusiast**
+#### **Blockchain Developer. Weirdly passionate about AI, crypto, physics, quantum computing and the occasional Muay Thai fight although I suck**
 
 
 ## About Me
