@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Kenneth
 
-#### **Blockchain Developer. Weirdly passionate about AI, crypto, physics, quantum computing and the occasional Muay Thai fight although I suck**
+#### **Blockchain Developer**
 
 
 ## About Me
-I am passionate about building and advancing technologies such as Crypto, DeFi and AI.
+Weirdly passionate about AI, crypto, physics, quantum computing and the occasional Muay Thai fight although I suck
 
 ## Tech Stack
 ![My Languages](https://skillicons.dev/icons?i=solidity,rust,python,typescript,c,javascript,bash,opencv,selenium,html,css&theme=dark)
