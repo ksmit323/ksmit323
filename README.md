@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ## About Me
-Weirdly passionate about AI, crypto, physics, quantum computing and the occasional Muay Thai fight
+Really into Crypto, AI, physics, quantum computing and the occasional Muay Thai fight
 
 ## Tech Stack
 ![My Languages](https://skillicons.dev/icons?i=solidity,rust,python,typescript,c,javascript,bash,opencv,selenium,html,css&theme=dark)
