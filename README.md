@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ## About Me
-Really into Crypto, AI, physics, quantum computing and the occasional Muay Thai fight
+I love to code. Frontend, backend, blockchain. 
 
 ## Tech Stack
 ![My Languages](https://skillicons.dev/icons?i=solidity,rust,python,typescript,c,javascript,bash,opencv,selenium,html,css&theme=dark)
