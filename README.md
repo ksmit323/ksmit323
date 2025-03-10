@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Kenneth
 
-#### **Blockchain Developer**
+#### **Fullstack Blockchain Developer**
 
 
 ## About Me
